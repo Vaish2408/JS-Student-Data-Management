@@ -1,0 +1,16 @@
+{
+  "studentList": [
+    { "id": "10", "name": "Satish", "marks": 83.3 },
+    { "id": "11", "name": "Nutan", "marks": 55.0 },
+    { "id": "12", "name": "Roopal", "marks": 38.2 },
+    { "id": "18", "name": "Sahil", "marks": 75.8 },
+    { "id": "19", "name": "Anish", "marks": 69.6 },
+    { "id": "20", "name": "Jeevan", "marks": 33.1 },
+    { "id": "21", "name": "Saurav", "marks": 56.4 },
+    { "id": "22", "name": "Leena", "marks": 87.5 },
+    { "id": "23", "name": "Neelam", "marks": 19.2 },
+    { "id": "25", "name": "Ganesh", "marks": 69.9 },
+    { "id": "27", "name": "Sarika", "marks": 64.2 },
+    { "id": "29", "name": "Rohan", "marks": 45.5 }
+  ]
+}

@@ -1,0 +1,35 @@
+body {
+  color: Black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+h1 {
+  color: cornflowerblue;
+}
+button {
+  background-color: navy;
+  color: white;
+  font-size: 20px;
+}
+.btn-grp {
+  margin-bottom: 20px;
+}
+.active {
+  color: red;
+}
+#search {
+  margin: 10px;
+}
+.div-rbtn {
+  margin: 5px 30px;
+  display: inline;
+}
+.myborder {
+  border: 2px solid black;
+}
+.container-form-student {
+  margin-top: 50px;
+}
+.container-list {
+  margin-bottom: 200px;
+}
